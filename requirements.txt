@@ -1,0 +1,11 @@
+torch
+torchvision
+pillow
+requests
+fastapi
+streamlit
+uvicorn
+python-multipart
+matplotlib
+seaborn
+tqdm
